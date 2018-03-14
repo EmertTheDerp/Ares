@@ -1,0 +1,2 @@
+# Ares
+discord bot
